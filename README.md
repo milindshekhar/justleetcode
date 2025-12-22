@@ -20,10 +20,12 @@
 | [0057-insert-interval](https://github.com/milindshekhar/justleetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
