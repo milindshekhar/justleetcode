@@ -16,6 +16,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/milindshekhar/justleetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
