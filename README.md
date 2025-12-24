@@ -24,6 +24,7 @@
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
