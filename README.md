@@ -7,11 +7,13 @@
 | [0027-remove-element](https://github.com/milindshekhar/justleetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
