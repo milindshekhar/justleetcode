@@ -13,6 +13,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -101,4 +102,12 @@
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
