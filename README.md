@@ -27,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,11 +47,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
