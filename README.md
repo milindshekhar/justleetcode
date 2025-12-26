@@ -26,6 +26,7 @@
 | [0057-insert-interval](https://github.com/milindshekhar/justleetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
