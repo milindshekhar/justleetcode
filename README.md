@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
 | ------- |
