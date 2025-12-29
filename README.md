@@ -29,6 +29,7 @@
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
@@ -38,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/milindshekhar/justleetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
