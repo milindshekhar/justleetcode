@@ -102,6 +102,7 @@
 | [0110-balanced-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
