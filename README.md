@@ -34,6 +34,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
