@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
+| [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -89,6 +90,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
