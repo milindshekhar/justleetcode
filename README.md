@@ -34,6 +34,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/milindshekhar/justleetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
@@ -53,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
