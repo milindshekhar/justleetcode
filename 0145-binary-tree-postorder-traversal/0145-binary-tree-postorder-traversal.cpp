@@ -11,16 +11,21 @@
  */
 class Solution {
 public:
-    void recursivepostorderTraversal(TreeNode* root,vector<int> &ans)
-    {
-        if(root==nullptr) return;
-        recursivepostorderTraversal(root->left,ans);
-        recursivepostorderTraversal(root->right,ans);
-        ans.push_back(root->val);
-    }
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
-        recursivepostorderTraversal(root,ans);
+        stack<TreeNode*> st;
+        TreeNode* temp=root;
+        if(temp==nullptr) return ans;
+        st.push(temp);
+        while(!st.empty())
+        {
+            temp=st.top();
+            st.pop();
+            ans.push_back(temp->val);
+            if(temp->left) st.push(temp->left);
+            if(temp->right) st.push(temp->right);
+        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
