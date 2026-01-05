@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    void recursivePreorderTraversal(TreeNode* root,vector<int> &ans)
+    void preOrderRecursiveTraversal(TreeNode* root,vector<int> &ans)
     {
-        if(root==nullptr) return;
+        if(root == nullptr) return;
         ans.push_back(root->val);
-        recursivePreorderTraversal(root->left,ans);
-        recursivePreorderTraversal(root->right,ans);
+        preOrderRecursiveTraversal(root->left,ans);
+        preOrderRecursiveTraversal(root->right,ans);
 
     }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        recursivePreorderTraversal(root,ans);
+        preOrderRecursiveTraversal(root,ans);
         return ans;
     }
 };
