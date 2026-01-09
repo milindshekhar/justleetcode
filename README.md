@@ -166,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/milindshekhar/justleetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
 ## Union Find
 |  |
@@ -190,4 +191,12 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/milindshekhar/justleetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/milindshekhar/justleetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/milindshekhar/justleetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
