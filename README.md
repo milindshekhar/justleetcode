@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/milindshekhar/justleetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/milindshekhar/justleetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/milindshekhar/justleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +221,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/milindshekhar/justleetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/milindshekhar/justleetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/milindshekhar/justleetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
