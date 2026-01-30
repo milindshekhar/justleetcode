@@ -3,6 +3,7 @@ public:
     string mergeAlternately(string word1, string word2) {
         int lenWord1 = word1.size(), lenWord2 = word2.size();
         string ans ="";
+        ans.reserve(lenWord1+lenWord2);
         int left = 0, right = 0;
         while (left < lenWord1 && right < lenWord2) {
             ans += word1[left++];
