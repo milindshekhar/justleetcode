@@ -62,6 +62,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/milindshekhar/justleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1732-find-the-highest-altitude](https://github.com/milindshekhar/justleetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -96,6 +97,7 @@
 | [0238-product-of-array-except-self](https://github.com/milindshekhar/justleetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/milindshekhar/justleetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
