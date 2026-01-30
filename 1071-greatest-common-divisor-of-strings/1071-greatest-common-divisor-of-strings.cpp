@@ -1,21 +1,11 @@
 class Solution {
 public:
     string gcdOfStrings(string str1, string str2) {
-        int n = min(str1.size(), str2.size());
-        for (int i = n; i >= 1; i--) {
-            string part = str1.substr(0, i);
-            if (isValid(str1, part) && isValid(str2, part)) {
-                return part;
-            }
+        if (str1 + str2 != str2 + str1) {
+            return "";
         }
-        return "";
+        int gcd = calcGcd(str1.size(), str2.size());
+        return str1.substr(0, gcd);
     }
-    bool isValid(const string& str, const string& part) {
-        int times = str.size() / part.size();
-        string formed = "";
-        for (int i = 0; i < times; i++) {
-            formed += part;
-        }
-        return formed == str;
-    }
+    int calcGcd(int a, int b) { return b == 0 ? a : gcd(b, a % b); }
 };
