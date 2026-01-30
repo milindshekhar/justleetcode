@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/milindshekhar/justleetcode/tree/master/1768-merge-strings-alternately) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -203,6 +204,7 @@
 | [0009-palindrome-number](https://github.com/milindshekhar/justleetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/milindshekhar/justleetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Union Find
 |  |
 | ------- |
