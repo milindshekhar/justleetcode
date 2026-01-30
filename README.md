@@ -56,6 +56,7 @@
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/milindshekhar/justleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
