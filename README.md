@@ -65,6 +65,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1732-find-the-highest-altitude](https://github.com/milindshekhar/justleetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/milindshekhar/justleetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
@@ -202,6 +203,7 @@
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/milindshekhar/justleetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/milindshekhar/justleetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
