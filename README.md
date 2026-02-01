@@ -81,6 +81,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/milindshekhar/justleetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -277,4 +278,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/milindshekhar/justleetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
