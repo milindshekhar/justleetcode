@@ -70,6 +70,7 @@
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3637-trionic-array-i](https://github.com/milindshekhar/justleetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
