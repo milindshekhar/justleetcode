@@ -24,6 +24,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/milindshekhar/justleetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/milindshekhar/justleetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
@@ -148,6 +149,7 @@
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/milindshekhar/justleetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [0682-baseball-game](https://github.com/milindshekhar/justleetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/milindshekhar/justleetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3379-transformed-array](https://github.com/milindshekhar/justleetcode/tree/master/3379-transformed-array) |
 ## Binary Search Tree
 |  |
