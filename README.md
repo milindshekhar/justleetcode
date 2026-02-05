@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/milindshekhar/justleetcode/tree/master/0394-decode-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/milindshekhar/justleetcode/tree/master/1768-merge-strings-alternately) |
@@ -144,6 +145,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/milindshekhar/justleetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/milindshekhar/justleetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/milindshekhar/justleetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/milindshekhar/justleetcode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/milindshekhar/justleetcode/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |
