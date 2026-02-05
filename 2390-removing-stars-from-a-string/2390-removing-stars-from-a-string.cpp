@@ -3,10 +3,11 @@ public:
     string removeStars(string s) {
         stack<char> st;
         for (int i = 0; i < s.size(); i++) {
-            st.push(s[i]);
             if (s[i] == '*') {
-                st.pop();
-                st.pop();
+                if (!st.empty())
+                    st.pop();
+            } else {
+                st.push(s[i]);
             }
         }
         string ans = "";
