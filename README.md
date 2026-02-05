@@ -70,6 +70,7 @@
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3379-transformed-array](https://github.com/milindshekhar/justleetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/milindshekhar/justleetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -242,6 +243,7 @@
 | [0682-baseball-game](https://github.com/milindshekhar/justleetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3379-transformed-array](https://github.com/milindshekhar/justleetcode/tree/master/3379-transformed-array) |
 ## Binary Search Tree
 |  |
 | ------- |
