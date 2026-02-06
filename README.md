@@ -73,6 +73,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3379-transformed-array](https://github.com/milindshekhar/justleetcode/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/milindshekhar/justleetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
