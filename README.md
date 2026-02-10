@@ -132,6 +132,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -235,6 +236,7 @@
 | [0009-palindrome-number](https://github.com/milindshekhar/justleetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/milindshekhar/justleetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/milindshekhar/justleetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Union Find
@@ -304,5 +306,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/milindshekhar/justleetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
