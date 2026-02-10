@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/milindshekhar/justleetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -70,6 +71,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/milindshekhar/justleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/milindshekhar/justleetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/milindshekhar/justleetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/milindshekhar/justleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/milindshekhar/justleetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -120,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -227,6 +230,7 @@
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/milindshekhar/justleetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/milindshekhar/justleetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
