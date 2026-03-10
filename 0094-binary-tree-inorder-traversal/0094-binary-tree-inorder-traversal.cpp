@@ -12,16 +12,23 @@
  */
 class Solution {
 public:
-    void recursiveInorderTraversal(TreeNode* root, vector<int>& ans) {
-        if (root == nullptr)
-            return;
-        recursiveInorderTraversal(root->left,ans);
-        ans.push_back(root->val);
-        recursiveInorderTraversal(root->right,ans);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        recursiveInorderTraversal(root, ans);
+        stack<TreeNode*> st;
+        TreeNode* temp = root;
+        while (true) {
+            if (temp != nullptr) {
+                st.push(temp);
+                temp = temp->left;
+            } else {
+                if (st.empty())
+                    break;
+                temp = st.top();
+                st.pop();
+                ans.push_back(temp->val);
+                temp = temp->right;
+            }
+        }
         return ans;
     }
 };
