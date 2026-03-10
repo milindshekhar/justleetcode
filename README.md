@@ -58,6 +58,7 @@
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/milindshekhar/justleetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/milindshekhar/justleetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -237,6 +239,7 @@
 | [0076-minimum-window-substring](https://github.com/milindshekhar/justleetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/milindshekhar/justleetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/milindshekhar/justleetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -246,6 +249,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
