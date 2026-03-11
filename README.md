@@ -53,6 +53,7 @@
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/milindshekhar/justleetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -237,6 +239,7 @@
 | [0001-two-sum](https://github.com/milindshekhar/justleetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/milindshekhar/justleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/milindshekhar/justleetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/milindshekhar/justleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
@@ -249,6 +252,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/milindshekhar/justleetcode/tree/master/0383-ransom-note) |
 ## Math
@@ -334,6 +338,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
