@@ -46,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/milindshekhar/justleetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/milindshekhar/justleetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/milindshekhar/justleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
@@ -264,6 +265,7 @@
 | [0002-add-two-numbers](https://github.com/milindshekhar/justleetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/milindshekhar/justleetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/milindshekhar/justleetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/milindshekhar/justleetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
