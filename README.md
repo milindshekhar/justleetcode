@@ -268,6 +268,7 @@
 | [0066-plus-one](https://github.com/milindshekhar/justleetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/milindshekhar/justleetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/milindshekhar/justleetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Union Find
