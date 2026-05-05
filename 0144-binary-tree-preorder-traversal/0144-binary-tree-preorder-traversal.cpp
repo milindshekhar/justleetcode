@@ -14,14 +14,20 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        preorderTraversalHelper(root, ans);
-        return ans;
-    }
-    void preorderTraversalHelper(TreeNode* root, vector<int>& ans) {
         if (root == nullptr)
-            return;
-        ans.push_back(root->val);
-        preorderTraversalHelper(root->left,ans);
-        preorderTraversalHelper(root->right,ans);
+            return ans;
+        TreeNode* temp = root;
+        stack<TreeNode*> st;
+        st.push(temp);
+        while (!st.empty()) {
+            TreeNode* temp = st.top();
+            st.pop();
+            ans.push_back(temp->val);
+            if (temp->right != nullptr)
+                st.push(temp->right);
+            if (temp->left != nullptr)
+                st.push(temp->left);
+        }
+        return ans;
     }
 };
