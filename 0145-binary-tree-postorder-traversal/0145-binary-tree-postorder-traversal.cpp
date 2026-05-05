@@ -6,26 +6,29 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
+        if (root == nullptr)
+            return ans;
+        TreeNode* temp = root;
         stack<TreeNode*> st;
-        TreeNode* temp=root;
-        if(temp==nullptr) return ans;
         st.push(temp);
-        while(!st.empty())
-        {
-            temp=st.top();
+        while (!st.empty()) {
+            temp = st.top();
             st.pop();
             ans.push_back(temp->val);
-            if(temp->left) st.push(temp->left);
-            if(temp->right) st.push(temp->right);
+            if (temp->left != nullptr)
+                st.push(temp->left);
+            if (temp->right != nullptr)
+                st.push(temp->right);
         }
-        reverse(ans.begin(),ans.end());
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
