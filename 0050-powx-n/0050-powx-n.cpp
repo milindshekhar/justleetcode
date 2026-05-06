@@ -1,23 +1,23 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (n == 0)
-            return 1.0;
-        long long num = n;
+        // your code goes here
+        if (n == 0) return 1.0000;
+        if (x == 0.0) return 0.0000;
+        long long power = n;
         if (n < 0) {
             x = 1 / x;
-            num = -num;
+            power = -1 * power * 1LL;
         }
-        double ans = 1.0;
-        while (num > 0) {
-            if (num % 2 == 1) {
-                ans = ans * x;
-                num--;
-            } else {
-                x = x * x;
-                num = num / 2;
-            }
+        return recursionMyPow(x, power);
+    }
+    double recursionMyPow(double x, long long power) {
+        if (power == 0) return 1.0000;
+        if (power == 1) return x;
+        if (power % 2 == 0) {
+           return recursionMyPow(x * x, power / 2);
+        } else {
+           return x * recursionMyPow(x, power - 1);
         }
-        return ans;
     }
 };
