@@ -77,6 +77,7 @@
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/milindshekhar/justleetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/milindshekhar/justleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -108,6 +109,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0219-contains-duplicate-ii](https://github.com/milindshekhar/justleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -125,6 +128,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/milindshekhar/justleetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/milindshekhar/justleetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/milindshekhar/justleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/milindshekhar/justleetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/milindshekhar/justleetcode/tree/master/2483-minimum-penalty-for-a-shop) |
