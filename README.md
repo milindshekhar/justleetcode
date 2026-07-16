@@ -59,6 +59,7 @@
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/milindshekhar/justleetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
@@ -214,6 +215,7 @@
 | [0110-balanced-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -238,12 +240,14 @@
 | [0100-same-tree](https://github.com/milindshekhar/justleetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/milindshekhar/justleetcode/tree/master/0566-reshape-the-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -367,6 +371,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
