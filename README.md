@@ -364,4 +364,12 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
