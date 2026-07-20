@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/milindshekhar/justleetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/milindshekhar/justleetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/milindshekhar/justleetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/milindshekhar/justleetcode/tree/master/0141-linked-list-cycle) |
@@ -45,6 +46,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/milindshekhar/justleetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/milindshekhar/justleetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/milindshekhar/justleetcode/tree/master/0057-insert-interval) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -298,6 +302,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
