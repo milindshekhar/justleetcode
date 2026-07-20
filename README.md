@@ -53,6 +53,7 @@
 | [0066-plus-one](https://github.com/milindshekhar/justleetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/milindshekhar/justleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/milindshekhar/justleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/milindshekhar/justleetcode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/milindshekhar/justleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/milindshekhar/justleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
