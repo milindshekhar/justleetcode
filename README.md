@@ -80,6 +80,7 @@
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/milindshekhar/justleetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -169,6 +170,7 @@
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/milindshekhar/justleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/1143-longest-common-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -371,6 +373,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -385,4 +388,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/milindshekhar/justleetcode/tree/master/0547-number-of-provinces) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
