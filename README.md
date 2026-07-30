@@ -70,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/milindshekhar/justleetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/milindshekhar/justleetcode/tree/master/0566-reshape-the-matrix) |
@@ -110,6 +111,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/milindshekhar/justleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/milindshekhar/justleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/milindshekhar/justleetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/milindshekhar/justleetcode/tree/master/0704-binary-search) |
@@ -168,6 +170,7 @@
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/milindshekhar/justleetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
