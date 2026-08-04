@@ -45,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/milindshekhar/justleetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/milindshekhar/justleetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/milindshekhar/justleetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0053-maximum-subarray) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/milindshekhar/justleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/milindshekhar/justleetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/milindshekhar/justleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/milindshekhar/justleetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/milindshekhar/justleetcode/tree/master/0090-subsets-ii) |
@@ -260,6 +262,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/milindshekhar/justleetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/milindshekhar/justleetcode/tree/master/0566-reshape-the-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/milindshekhar/justleetcode/tree/master/2643-row-with-maximum-ones) |
@@ -269,6 +272,7 @@
 | [0001-two-sum](https://github.com/milindshekhar/justleetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/milindshekhar/justleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/milindshekhar/justleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/milindshekhar/justleetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/milindshekhar/justleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/milindshekhar/justleetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -402,4 +406,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
