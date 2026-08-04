@@ -100,6 +100,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/milindshekhar/justleetcode/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/milindshekhar/justleetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3634-minimum-removals-to-balance-array](https://github.com/milindshekhar/justleetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/milindshekhar/justleetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/milindshekhar/justleetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/milindshekhar/justleetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/milindshekhar/justleetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
