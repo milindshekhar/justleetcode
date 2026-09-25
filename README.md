@@ -31,6 +31,7 @@
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/milindshekhar/justleetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/milindshekhar/justleetcode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/milindshekhar/justleetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/milindshekhar/justleetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -162,6 +163,7 @@
 | [0011-container-with-most-water](https://github.com/milindshekhar/justleetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/milindshekhar/justleetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -203,6 +206,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/milindshekhar/justleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/milindshekhar/justleetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/milindshekhar/justleetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
@@ -424,4 +428,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/milindshekhar/justleetcode/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
