@@ -16,18 +16,16 @@ public:
         vector<int> ans;
         if (root == nullptr)
             return ans;
-        TreeNode* temp = root;
-        stack<TreeNode*> st;
-        st.push(temp);
-        while (!st.empty()) {
-            TreeNode* temp = st.top();
-            st.pop();
-            ans.push_back(temp->val);
-            if (temp->right != nullptr)
-                st.push(temp->right);
-            if (temp->left != nullptr)
-                st.push(temp->left);
-        }
+        preOrderRecursiveHelper(root, ans);
         return ans;
+    }
+
+private:
+    void preOrderRecursiveHelper(TreeNode* node, vector<int>& ans) {
+        if (node == nullptr)
+            return;
+        ans.push_back(node->val);
+        preOrderRecursiveHelper(node->left, ans);
+        preOrderRecursiveHelper(node->right, ans);
     }
 };
