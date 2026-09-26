@@ -230,6 +230,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/milindshekhar/justleetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/milindshekhar/justleetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/milindshekhar/justleetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/milindshekhar/justleetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/milindshekhar/justleetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
