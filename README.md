@@ -59,6 +59,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/milindshekhar/justleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/milindshekhar/justleetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/milindshekhar/justleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -174,6 +175,7 @@
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/milindshekhar/justleetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/milindshekhar/justleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/milindshekhar/justleetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/milindshekhar/justleetcode/tree/master/0213-house-robber-ii) |
