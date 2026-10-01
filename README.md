@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/milindshekhar/justleetcode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/milindshekhar/justleetcode/tree/master/1768-merge-strings-alternately) |
@@ -77,6 +78,7 @@
 | [0238-product-of-array-except-self](https://github.com/milindshekhar/justleetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/milindshekhar/justleetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/milindshekhar/justleetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/milindshekhar/justleetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/milindshekhar/justleetcode/tree/master/0566-reshape-the-matrix) |
@@ -154,6 +156,7 @@
 | [0169-majority-element](https://github.com/milindshekhar/justleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/milindshekhar/justleetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/milindshekhar/justleetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/milindshekhar/justleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/milindshekhar/justleetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -166,6 +169,7 @@
 | [0011-container-with-most-water](https://github.com/milindshekhar/justleetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/milindshekhar/justleetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -451,4 +455,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/milindshekhar/justleetcode/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
