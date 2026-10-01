@@ -89,6 +89,7 @@
 | [0735-asteroid-collision](https://github.com/milindshekhar/justleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/milindshekhar/justleetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/milindshekhar/justleetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/milindshekhar/justleetcode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/milindshekhar/justleetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/milindshekhar/justleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/milindshekhar/justleetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@
 | [0135-candy](https://github.com/milindshekhar/justleetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/milindshekhar/justleetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/milindshekhar/justleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/milindshekhar/justleetcode/tree/master/0860-lemonade-change) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/milindshekhar/justleetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
